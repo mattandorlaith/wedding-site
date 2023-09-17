@@ -1,0 +1,63 @@
+# Main Title
+main:
+  header:
+    title : "Matt and Orlaith's wedding" # Title Text
+    description : "We can't wait to share the day with you" # Title Desc
+    button:
+      text: "About the day" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About the day"
+  desc: "We invite you to join us in celebrating the union of Matt and Orlaith, as they exchange vows of love and commitment at Poulaphouca House & Falls on the 31st August 2024."
+  button:
+    enable: true
+    text: "RSVP"
+    url: "#rsvp"
+  #image: "assets/img/wedding-logo.png"
+
+projects:
+  card1:
+    title: "Travel"
+    text: |
+      **By Train:**
+      - Start at `Dublin Connolly Train Station`.
+      - Take the train to `Kilcoole Train Station`.
+      - Upon arrival at Kilcoole, you can either take a taxi or use a rideshare service to reach Poulaphouca House & Falls. The distance is approximately 25 kilometers (about 16 miles), and the journey should take around 30-40 minutes by car.
+
+      **By Bus:**
+      - Start at `Dublin Busáras` or `Dublin Airport`, depending on your location.
+      - Take a bus heading to Blessington (`Bus Route 65 or 65B`).
+      - Disembark at `Blessington Village`, which is approximately 1.5 kilometers (about 1 mile) from Poulaphouca House & Falls.
+      - You can either walk to the destination or take a short taxi ride from Blessington Village to Poulaphouca House & Falls.
+
+      **By Car:**
+      - Navigate to `W91 DN30`.
+      - Click [here](https://maps.app.goo.gl/kLCbZ4JDiTnosfP38) for detailed location information.
+    img: "assets/img/pressed-preserved-bloom-flower.jpg"
+  card2:
+    title: "Accommodation"
+    text: |
+      The options for nearby **Hotels and Resorts** are as follows:
+
+      - `Tulfarris Hotel & Golf Resort:` This upscale resort is located near Blessington Lakes and offers comfortable rooms, a golf course, and beautiful views.
+      - `Powerscourt Hotel Resort & Spa:` A luxurious hotel situated in the stunning Powerscourt Estate, known for its world-class spa and elegant rooms.
+      - `BrookLodge & Macreddin Village:` Located in Aughrim, County Wicklow, this eco-friendly hotel offers a unique experience with its spa, organic food, and cozy rooms.
+
+      The options for nearby **Bed and Breakfasts (B&Bs)** are below:
+
+      - `Blessington Lakeshore House:` A charming B&B overlooking Blessington Lakes, offering comfortable accommodations and a warm Irish welcome.
+      - `Tudor Lodge:` Located in the heart of Blessington, this B&B provides cozy rooms and easy access to the surrounding attractions.
+    img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
+  card3:
+    title: "Amenities"
+    text: |
+      - `Poulaphouca Reservoir:` The Poulaphouca Reservoir, also known as Blessington Lakes, is a picturesque body of water created by damming the River Liffey. It offers opportunities for fishing, boating, and scenic walks along its shores.
+      - `Russborough House and Parklands:` Russborough House is a stunning stately home with beautiful gardens and parklands. It often hosts art exhibitions and cultural events. The house itself is an architectural gem, and the gardens are perfect for a leisurely stroll.
+      - `Glendalough:` Located in the heart of the Wicklow Mountains National Park, Glendalough is a historic monastic site surrounded by lush forests and scenic hiking trails. It's a place of natural beauty and cultural significance.
+    img: "assets/img/foliage-leaf-green-background.jpg"
+  card4:
+    title: "Timetable"
+    text: "The order of events is currently to be determined, please check again soon!"
+    img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"

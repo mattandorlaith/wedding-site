@@ -1,0 +1,45 @@
+baseURL = 'http://mattandorlaith.wedding'
+languageCode = 'en-gb'
+theme = 'graysx'
+title = 'Welcome to Matt and Orlaiths wedding site!'
+
+## Site Settings
+[params]
+logo = "assets/img/wedding-logo.png"
+favicon = "assets/favicon-new.png"
+
+# Info
+address = "Venue: Blakestown, Hollywood, Co. Wicklow, W91 DN30, Ireland"
+email = "matthewandorlaith2024@gmail.com"
+phone = "Reach out to Matt or Orlaith directly"
+
+# Socials
+
+twitter = "#"
+facebook = "#"
+github = "#"
+
+# Other
+
+## Menu Items
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Information"
+  URL = "#information"
+  weight = 2
+
+  [[menu.main]]
+  name = "RSVP"
+  URL = "#rsvp"
+  weight = 3
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04
