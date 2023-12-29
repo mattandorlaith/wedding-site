@@ -10,7 +10,18 @@ main:
 # About
 about:
   title: "About the day"
-  desc: "We invite you to join us in celebrating the union of Matt and Orlaith, as they exchange vows of love and commitment at Poulaphouca House & Falls on the 31st August 2024."
+  desc: |
+    📅 **Date:** `31st August, 2024`\
+    🕊️ **Venue:** `Poulaphouca House & Falls, Co. Wicklow, Ireland`\
+    🕒 **Time:** `Arrival from 1300`\
+    \
+    We are delighted to ask you to join us on a joyous occasion as we embark on the journey of a lifetime! We are overjoyed to share this special moment with each and every one of you, and we cordially invite you to witness and celebrate our union.\
+    \
+    Our website is designed to be your go-to resource for all things related to our big day. Here, you'll find important details about the ceremony and reception, alongside accommodation and travel recommendations.\
+    \
+    With `love` and `excitement`,\
+    \
+    Matt & Orlaith 💖
   button:
     enable: true
     text: "RSVP"
@@ -21,43 +32,82 @@ projects:
   card1:
     title: "Travel"
     text: |
-      **By Train:**
-      - Start at `Dublin Connolly Train Station`.
-      - Take the train to `Kilcoole Train Station`.
-      - Upon arrival at Kilcoole, you can either take a taxi or use a rideshare service to reach Poulaphouca House & Falls. The distance is approximately 25 kilometers (about 16 miles), and the journey should take around 30-40 minutes by car.
+      **Staying in Naas:**
+      - Transport will be put on from `Naas town centre` to and from the venue. 
 
-      **By Bus:**
+      **Traveling by Bus from Dublin:**
       - Start at `Dublin Busáras` or `Dublin Airport`, depending on your location.
       - Take a bus heading to Blessington (`Bus Route 65 or 65B`).
       - Disembark at `Blessington Village`, which is approximately 1.5 kilometers (about 1 mile) from Poulaphouca House & Falls.
-      - You can either walk to the destination or take a short taxi ride from Blessington Village to Poulaphouca House & Falls.
+      - It's then a short taxi ride from `Blessington Village` to `Poulaphouca House & Falls`.
 
       **By Car:**
       - Navigate to `W91 DN30`.
       - Click [here](https://maps.app.goo.gl/kLCbZ4JDiTnosfP38) for detailed location information.
-    img: "assets/img/pressed-preserved-bloom-flower.jpg"
+
+      **Taxi:**
+      - Prebook with `a local company in advance` due to the venue's rural location.
+    img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
   card2:
     title: "Accommodation"
     text: |
-      The options for nearby **Hotels and Resorts** are as follows:
+      There are many options for accommodation; below are some recommendations.
 
-      - `Tulfarris Hotel & Golf Resort:` This upscale resort is located near Blessington Lakes and offers comfortable rooms, a golf course, and beautiful views.
-      - `Powerscourt Hotel Resort & Spa:` A luxurious hotel situated in the stunning Powerscourt Estate, known for its world-class spa and elegant rooms.
-      - `BrookLodge & Macreddin Village:` Located in Aughrim, County Wicklow, this eco-friendly hotel offers a unique experience with its spa, organic food, and cozy rooms.
+      Nearby **Hotels**:
+      - `Tulfarris Hotel & Golf Resort:` Scenic lakeside retreat, close to the venue.
+      - `Kilashee Hotel & Spa:` Luxurious country estate. 
+      - `Osprey Hotel:` Four-star hotel in the centre of Naas.
+      - `Lawlors Hotel:` Boutique hotel in the centre of Naas.
+      - `The Town House Hotel:` Comfortable rooms in the centre of Naas.
+      - `Monaghan's Harbour Hotel:` Budget hotel in the centre of Naas.
 
-      The options for nearby **Bed and Breakfasts (B&Bs)** are below:
+      Nearby **Bed and Breakfasts (B&Bs)**:
+      - `The Angler's Rest:` Cosy rooms just 3 minutes from the venue.
+      - `Abhainn Ri Farmhouse:` Traditional lakeside Irish farmhouse.
+      - `Baltyboys Lodge:` Guesthouse overlooking the Blessington Lakes.
 
-      - `Blessington Lakeshore House:` A charming B&B overlooking Blessington Lakes, offering comfortable accommodations and a warm Irish welcome.
-      - `Tudor Lodge:` Located in the heart of Blessington, this B&B provides cozy rooms and easy access to the surrounding attractions.
-    img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
-  card3:
-    title: "Amenities"
-    text: |
-      - `Poulaphouca Reservoir:` The Poulaphouca Reservoir, also known as Blessington Lakes, is a picturesque body of water created by damming the River Liffey. It offers opportunities for fishing, boating, and scenic walks along its shores.
-      - `Russborough House and Parklands:` Russborough House is a stunning stately home with beautiful gardens and parklands. It often hosts art exhibitions and cultural events. The house itself is an architectural gem, and the gardens are perfect for a leisurely stroll.
-      - `Glendalough:` Located in the heart of the Wicklow Mountains National Park, Glendalough is a historic monastic site surrounded by lush forests and scenic hiking trails. It's a place of natural beauty and cultural significance.
+      The southwest of Dublin is approximately 40 mins away by taxi, if planning to stay in the capital the prebooking of a taxi is essential.
     img: "assets/img/foliage-leaf-green-background.jpg"
+  card3:
+    title: "What to do"
+    text: |
+      **If staying local:**
+      - `Wicklow Mountains`
+      - `Blessington Lakes:` Serene reservoir offering scenic beauty and plenty of hikes.
+      - `Glendalough:` PHistoric valley famed for its beautiful lakes and hiking trails.
+      - `Spinc Trail:` Picturesque 10km hike.  
+      - `Turlough Hill:` Scenic 6km walk. 
+      - `Sally Gap:` Scenic mountain pass known for its winding roads and breathtaking vistas.
+      - `Lough Tay:` Mountain lake, AKA “Guinness Lake”.
+      - `Powerscourt Waterfall:` Ireland's highest waterfall.
+      - `Japanese Gardens:` A tranquil garden in Co. Kildare featuring traditional Japanese design.
+      - `Naas Racecourse:` Prominent Irish horse racing venue.
+
+      **If spending time in Dublin:**
+      - `Guinness Storehouse:` Famous brewery attraction showcasing the history of the iconic stout.
+      - `Jameson Experience:` Interactive whiskey tour revealing the heritage of Jameson Irish whiskey.
+      - `Kilmainham Gaol:` Historic prison, now a museum, which played a key role in Irish independence.
+      - `Temple Bar:` Vibrant cultural district known for its lively atmosphere and expensive pints.
+      - `GAA museum:` Sporting museum located at Croke Park.
+      - `Phoenix Park & Dublin Zoo:` Europe's largest urban park, home to Dublin Zoo.
+      - `Malahide Castle:` Historic castle, down the road from Orlaith's family home.
+
+      **If exploring further afield:**
+      - `Wild Atlantic Way:` Scenic coastal route over 2,500 km in length, showcasing dramatic landscapes.
+      - `Ring of Kerry:` Picturesque loop taking in rugged and remote countryside.
+      - `Cliffs of Moher:` Spectacular coastal cliffs, offering breathtaking views of the Atlantic Ocean.
+      - `Croagh Patrick:` Iconic mountain with religious significance, best experienced barefoot!
+      - `Giant's Causeway:` Follow in the footsteps of giants at this natural wonder in Northern Ireland.
+    #img: "assets/img/foliage-leaf-green-background.jpg"
+    img: "assets/img/pressed-preserved-bloom-flower.jpg"
   card4:
     title: "Timetable"
-    text: "The order of events is currently to be determined, please check again soon!"
-    img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
+    text: |
+     Arrival from `13:00` and carriages by `02:00`.  \
+     The full timetable of the day is yet to be confirmed - check back later! \
+     \
+     **Day 2 celebrations:** \
+     We are planning on arranging an informal gathering in a local pub the day after the wedding; please come and join us if you wish to carry on the celebrations! \
+     `More details to follow.`
+    #img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
+    img: "assets/img/20230315_163236.jpg"
