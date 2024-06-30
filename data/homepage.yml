@@ -103,11 +103,20 @@ projects:
   card4:
     title: "Timetable"
     text: |
-     Arrival from `13:00` and carriages by `02:00`.  \
+     Arrival from `13:30` and carriages by `02:00`.  \
      The full timetable of the day is yet to be confirmed - check back later! \
      \
      **Day 2 celebrations:** \
-     We are planning on arranging an informal gathering in a local pub the day after the wedding; please come and join us if you wish to carry on the celebrations! \
-     `More details to follow.`
+     For those who would like to join us for a casual drink on the Sunday before we head off on honeymoon, we'd be delighted to see you at the [West Wicklow House](https://westwicklowhouse.com/), Blessington, from `12:00`.
     #img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
     img: "assets/img/20230315_163236.jpg"
+  card5:
+    title: "Wedding Gifts"
+    text: |
+      Many of you will have travelled far, to share our day with us \
+      So please don't feel obliged to gift, we don't need all the fuss. \
+      Should you wish to, we've made [a list of things](https://prezola.com/buy/view/185488) that would make us smile \
+      But having you with us would mean the most \
+      as we walk down the aisle.
+    #img: "assets/img/flower-plant-nature-garden-blossom-bloom.jpg"
+    img: "assets/img/foliage-leaf-green-background.jpg"
